@@ -1,0 +1,24 @@
+2023-09-24 13:04:53,882 - Replica folder cleared.
+2023-09-24 13:04:53,892 - Source folder synchronized to replica folder.
+2023-09-24 13:11:32,667 - File removed: private\path\replica\test.txt
+2023-09-24 13:11:32,673 - File removed: private\path\replica\test3.txt
+2023-09-24 13:11:32,674 - File removed: private\path\replica\test4.txt
+2023-09-24 13:11:32,677 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 13:11:32,680 - File copied: private\path\source\test2.txt -> private\path\replica\.\test2.txt
+2023-09-24 13:11:32,683 - File copied: private\path\source\test4.txt -> private\path\replica\.\test4.txt
+2023-09-24 13:11:32,683 - Source folder synchronized to replica folder.
+2023-09-24 13:20:38,508 - File removed: private\path\replica\test.txt
+2023-09-24 13:20:38,511 - File removed: private\path\replica\test2.txt
+2023-09-24 13:20:38,511 - File removed: private\path\replica\test4.txt
+2023-09-24 13:20:38,515 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 13:20:38,515 - File copied: private\path\source\test2.txt -> private\path\replica\.\test2.txt
+2023-09-24 13:20:38,520 - File copied: private\path\source\test4.txt -> private\path\replica\.\test4.txt
+2023-09-24 13:20:38,520 - Source folder synchronized to replica folder.
+2023-09-24 13:21:23,139 - File removed: private\path\replica\test.txt
+2023-09-24 13:21:23,144 - File removed: private\path\replica\test2.txt
+2023-09-24 13:21:23,145 - File removed: private\path\replica\test4.txt
+2023-09-24 13:21:23,149 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 13:21:23,151 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 13:21:23,154 - File copied: private\path\source\test2.txt -> private\path\replica\.\test2.txt
+2023-09-24 13:21:23,158 - File copied: private\path\source\test4.txt -> private\path\replica\.\test4.txt
+2023-09-24 13:21:23,158 - Source folder synchronized to replica folder.
