@@ -22,3 +22,412 @@
 2023-09-24 13:21:23,154 - File copied: private\path\source\test2.txt -> private\path\replica\.\test2.txt
 2023-09-24 13:21:23,158 - File copied: private\path\source\test4.txt -> private\path\replica\.\test4.txt
 2023-09-24 13:21:23,158 - Source folder synchronized to replica folder.
+2023-09-24 15:21:31,768 - File removed: private\path\replica\jhfvfadj.txt
+2023-09-24 15:21:31,769 - File removed: private\path\replica\test.txt
+2023-09-24 15:21:31,770 - File removed: private\path\replica\test2.txt
+2023-09-24 15:21:31,770 - File removed: private\path\replica\test5.txt
+2023-09-24 15:21:31,774 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:21:31,777 - File copied: private\path\source\jhfvfadj.txt -> private\path\replica\.\jhfvfadj.txt
+2023-09-24 15:21:31,779 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:21:31,782 - File copied: private\path\source\test2.txt -> private\path\replica\.\test2.txt
+2023-09-24 15:21:31,782 - Error during synchronization: [Errno 2] No such file or directory: 'C:\\Users\\brand\\OneDrive\\Desktop\\IT\\veeam\\replica\\new\\hello.txt'
+2023-09-24 15:24:05,111 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 15:24:05,118 - File removed: private\path\replica\jhfvfadj.txt
+2023-09-24 15:24:05,119 - File removed: private\path\replica\test.txt
+2023-09-24 15:24:05,119 - File removed: private\path\replica\test2.txt
+2023-09-24 15:24:05,124 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:24:05,126 - File copied: private\path\source\jhfvfadj.txt -> private\path\replica\.\jhfvfadj.txt
+2023-09-24 15:24:05,130 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:24:05,132 - File copied: private\path\source\test2.txt -> private\path\replica\.\test2.txt
+2023-09-24 15:24:05,132 - Error during synchronization: [Errno 2] No such file or directory: 'C:\\Users\\brand\\OneDrive\\Desktop\\IT\\veeam\\replica\\new\\hello.txt'
+2023-09-24 15:28:18,530 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 15:28:18,544 - File removed: private\path\replica\jhfvfadj.txt
+2023-09-24 15:28:18,546 - File removed: private\path\replica\test.txt
+2023-09-24 15:28:18,547 - File removed: private\path\replica\test2.txt
+2023-09-24 15:28:18,551 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:28:18,553 - File copied: private\path\source\jhfvfadj.txt -> private\path\replica\.\jhfvfadj.txt
+2023-09-24 15:28:18,556 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:28:18,558 - File copied: private\path\source\test2.txt -> private\path\replica\.\test2.txt
+2023-09-24 15:28:18,562 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 15:28:18,564 - File copied: private\path\source\new\test9.txt -> private\path\replica\new\test9.txt
+2023-09-24 15:28:18,566 - Source folder synchronized to replica folder.
+2023-09-24 15:29:22,674 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 15:29:22,675 - File removed: private\path\replica\jhfvfadj.txt
+2023-09-24 15:29:22,676 - File removed: private\path\replica\test.txt
+2023-09-24 15:29:22,676 - File removed: private\path\replica\test2.txt
+2023-09-24 15:29:22,677 - File removed: private\path\replica\new\hello.txt
+2023-09-24 15:29:22,678 - File removed: private\path\replica\new\test9.txt
+2023-09-24 15:29:22,680 - File copied: private\path\source\1234.txt -> private\path\replica\.\1234.txt
+2023-09-24 15:29:22,684 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:29:22,685 - File copied: private\path\source\jhfvfadj.txt -> private\path\replica\.\jhfvfadj.txt
+2023-09-24 15:29:22,687 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:29:22,689 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 15:29:22,690 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 15:29:22,690 - Source folder synchronized to replica folder.
+2023-09-24 15:34:09,952 - File removed: private\path\replica\1234.txt
+2023-09-24 15:34:09,956 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 15:34:09,957 - File removed: private\path\replica\jhfvfadj.txt
+2023-09-24 15:34:09,958 - File removed: private\path\replica\test.txt
+2023-09-24 15:34:09,958 - File removed: private\path\replica\new\hello.txt
+2023-09-24 15:34:09,959 - File removed: private\path\replica\new\test2.txt
+2023-09-24 15:34:09,962 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:34:09,964 - File copied: private\path\source\jhfvfadj.txt -> private\path\replica\.\jhfvfadj.txt
+2023-09-24 15:34:09,966 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:34:09,968 - File copied: private\path\source\test2.txt -> private\path\replica\.\test2.txt
+2023-09-24 15:34:09,971 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 15:34:09,973 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 15:34:09,973 - Source folder synchronized to replica folder.
+2023-09-24 15:40:05,891 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 15:40:05,892 - File removed: private\path\replica\jhfvfadj.txt
+2023-09-24 15:40:05,892 - File removed: private\path\replica\test.txt
+2023-09-24 15:40:05,894 - File removed: private\path\replica\test2.txt
+2023-09-24 15:40:05,896 - File removed: private\path\replica\new\hello.txt
+2023-09-24 15:40:05,897 - File removed: private\path\replica\new\test2.txt
+2023-09-24 15:40:05,901 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:40:05,905 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:40:05,909 - File copied: private\path\source\test26.txt -> private\path\replica\.\test26.txt
+2023-09-24 15:40:05,912 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 15:40:05,914 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 15:40:05,915 - Source folder synchronized to replica folder.
+2023-09-24 15:49:15,003 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 15:49:15,004 - File removed: private\path\replica\test.txt
+2023-09-24 15:49:15,005 - File removed: private\path\replica\test26.txt
+2023-09-24 15:49:15,006 - File removed: private\path\replica\new\hello.txt
+2023-09-24 15:49:15,007 - File removed: private\path\replica\new\test2.txt
+2023-09-24 15:49:15,011 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:49:15,015 - File copied: private\path\source\khdvjdbvj.txt -> private\path\replica\.\khdvjdbvj.txt
+2023-09-24 15:49:15,015 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:49:15,020 - File copied: private\path\source\test26.txt -> private\path\replica\.\test26.txt
+2023-09-24 15:49:15,025 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 15:49:15,028 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 15:49:15,028 - Source folder synchronized to replica folder.
+2023-09-24 15:52:28,755 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 15:52:28,757 - File removed: private\path\replica\khdvjdbvj.txt
+2023-09-24 15:52:28,758 - File removed: private\path\replica\test.txt
+2023-09-24 15:52:28,759 - File removed: private\path\replica\test26.txt
+2023-09-24 15:52:28,760 - File removed: private\path\replica\new\hello.txt
+2023-09-24 15:52:28,761 - File removed: private\path\replica\new\test2.txt
+2023-09-24 15:52:28,764 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:52:28,766 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 15:52:28,769 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:52:28,772 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 15:52:28,774 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 15:52:28,774 - Source folder synchronized to replica folder.
+2023-09-24 15:54:51,186 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 15:54:51,187 - File removed: private\path\replica\file.txt
+2023-09-24 15:54:51,188 - File removed: private\path\replica\test.txt
+2023-09-24 15:54:51,189 - File removed: private\path\replica\new\hello.txt
+2023-09-24 15:54:51,190 - File removed: private\path\replica\new\test2.txt
+2023-09-24 15:54:51,194 - File copied: private\path\source\Document text nou.txt -> private\path\replica\.\Document text nou.txt
+2023-09-24 15:54:51,198 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 15:54:51,200 - File copied: private\path\source\fsvsrb.txt -> private\path\replica\.\fsvsrb.txt
+2023-09-24 15:54:51,202 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 15:54:51,205 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 15:54:51,208 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 15:54:51,208 - Source folder synchronized to replica folder.
+2023-09-24 16:06:35,882 - File removed: private\path\replica\Document text nou.txt
+2023-09-24 16:06:35,890 - File removed: private\path\replica\file.txt
+2023-09-24 16:06:35,891 - File removed: private\path\replica\fsvsrb.txt
+2023-09-24 16:06:35,892 - File removed: private\path\replica\test.txt
+2023-09-24 16:06:35,894 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:06:35,895 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:06:35,898 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:06:35,899 - Error during synchronization: name 'source_file_path' is not defined
+2023-09-24 16:07:35,359 - File removed: private\path\replica\file.txt
+2023-09-24 16:07:35,366 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:07:35,366 - Error during synchronization: 'str' object is not callable
+2023-09-24 16:07:47,506 - File removed: private\path\replica\file.txt
+2023-09-24 16:07:47,517 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:07:47,520 - File copied: private\path\source\new file.txt -> private\path\replica\.\new file.txt
+2023-09-24 16:07:47,523 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 16:07:47,527 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:07:47,529 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:07:47,529 - Source folder synchronized to replica folder.
+2023-09-24 16:07:47,529 - Newly created files:
+2023-09-24 16:07:47,529 - File created: file.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:07:47,529 - File created: new file.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:07:47,529 - File created: test.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:07:47,529 - File created: hello.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:07:47,529 - File created: test2.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:08:55,834 - File removed: private\path\replica\file.txt
+2023-09-24 16:08:55,839 - File removed: private\path\replica\new file.txt
+2023-09-24 16:08:55,839 - File removed: private\path\replica\test.txt
+2023-09-24 16:08:55,840 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:08:55,841 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:08:55,845 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:08:55,847 - File copied: private\path\source\new file.txt -> private\path\replica\.\new file.txt
+2023-09-24 16:08:55,849 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 16:08:55,851 - File copied: private\path\source\to be mentioned.txt -> private\path\replica\.\to be mentioned.txt
+2023-09-24 16:08:55,853 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:08:55,855 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:08:55,855 - Source folder synchronized to replica folder.
+2023-09-24 16:08:55,855 - Newly created files:
+2023-09-24 16:08:55,855 - File created: file.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:08:55,855 - File created: new file.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:08:55,855 - File created: test.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:08:55,855 - File created: to be mentioned.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:08:55,855 - File created: hello.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:08:55,855 - File created: test2.txt (Created at: Sat Sep 23 15:22:12 2023)
+2023-09-24 16:12:38,181 - File removed: private\path\replica\file.txt
+2023-09-24 16:12:38,192 - File removed: private\path\replica\new test.txt
+2023-09-24 16:12:38,194 - File removed: private\path\replica\test.txt
+2023-09-24 16:12:38,194 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:12:38,196 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:12:38,200 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:12:38,203 - File copied: private\path\source\new file.txt -> private\path\replica\.\new file.txt
+2023-09-24 16:12:38,207 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 16:12:38,210 - File copied: private\path\source\to be mentioned.txt -> private\path\replica\.\to be mentioned.txt
+2023-09-24 16:12:38,214 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:12:38,217 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:12:38,217 - Source folder synchronized to replica folder.
+2023-09-24 16:16:10,458 - File removed: private\path\replica\file.txt
+2023-09-24 16:16:10,464 - File removed: private\path\replica\new file.txt
+2023-09-24 16:16:10,464 - File removed: private\path\replica\test.txt
+2023-09-24 16:16:10,464 - File removed: private\path\replica\to be mentioned.txt
+2023-09-24 16:16:10,470 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:16:10,471 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:16:10,473 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:16:10,482 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 16:16:10,487 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 16:16:10,494 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:16:10,499 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:16:10,499 - Source folder synchronized to replica folder.
+2023-09-24 16:17:27,408 - File removed: private\path\replica\file.txt
+2023-09-24 16:17:27,408 - File removed: private\path\replica\new.txt
+2023-09-24 16:17:27,409 - File removed: private\path\replica\test.txt
+2023-09-24 16:17:27,410 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:17:27,411 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:17:27,414 - File copied: private\path\source\556547678.txt -> private\path\replica\.\556547678.txt
+2023-09-24 16:17:27,417 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:17:27,421 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 16:17:27,425 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 16:17:27,428 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:17:27,431 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:17:27,431 - Source folder synchronized to replica folder.
+2023-09-24 16:24:51,243 - File removed: private\path\replica\556547678.txt
+2023-09-24 16:24:51,250 - File removed: private\path\replica\file.txt
+2023-09-24 16:24:51,251 - File removed: private\path\replica\new.txt
+2023-09-24 16:24:51,252 - File removed: private\path\replica\test.txt
+2023-09-24 16:24:51,254 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:24:51,255 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:24:51,260 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:24:51,263 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 16:24:51,267 - File copied: private\path\source\test.txt -> private\path\replica\.\test.txt
+2023-09-24 16:24:51,272 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:24:51,276 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:24:51,276 - Source folder synchronized to replica folder.
+2023-09-24 16:29:09,179 - File removed: private\path\replica\file.txt
+2023-09-24 16:29:09,182 - File removed: private\path\replica\new.txt
+2023-09-24 16:29:09,183 - File removed: private\path\replica\test.txt
+2023-09-24 16:29:09,184 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:29:09,186 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:29:09,190 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:29:09,194 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 16:29:09,196 - File copied: private\path\source\stuff.txt -> private\path\replica\.\stuff.txt
+2023-09-24 16:29:09,200 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:29:09,200 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:29:09,203 - Source folder synchronized to replica folder.
+2023-09-24 16:31:12,232 - File removed: private\path\replica\file.txt
+2023-09-24 16:31:12,233 - File removed: private\path\replica\new.txt
+2023-09-24 16:31:12,234 - File removed: private\path\replica\stuff.txt
+2023-09-24 16:31:12,237 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:31:12,238 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:31:12,241 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:31:12,245 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 16:31:12,250 - File copied: private\path\source\stuff.txt -> private\path\replica\.\stuff.txt
+2023-09-24 16:31:12,250 - File copied: private\path\source\update.txt -> private\path\replica\.\update.txt
+2023-09-24 16:31:12,258 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:31:12,264 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:31:12,264 - Source folder synchronized to replica folder.
+2023-09-24 16:41:19,214 - File removed: private\path\replica\file.txt
+2023-09-24 16:41:19,218 - File removed: private\path\replica\new.txt
+2023-09-24 16:41:19,219 - File removed: private\path\replica\stuff.txt
+2023-09-24 16:41:19,220 - File removed: private\path\replica\update.txt
+2023-09-24 16:41:19,220 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:41:19,222 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:41:19,225 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:41:19,228 - File copied: private\path\source\new modification.txt -> private\path\replica\.\new modification.txt
+2023-09-24 16:41:19,230 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 16:41:19,235 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:41:19,236 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:41:19,236 - Source folder synchronized to replica folder.
+2023-09-24 16:43:12,869 - File removed: private\path\replica\file.txt
+2023-09-24 16:43:12,871 - File removed: private\path\replica\new modification.txt
+2023-09-24 16:43:12,871 - File removed: private\path\replica\new.txt
+2023-09-24 16:43:12,872 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:43:12,873 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:43:12,875 - File copied: private\path\source\created FILE.txt -> private\path\replica\.\created FILE.txt
+2023-09-24 16:43:12,879 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:43:12,882 - File copied: private\path\source\new modification.txt -> private\path\replica\.\new modification.txt
+2023-09-24 16:43:12,886 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 16:43:12,890 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:43:12,894 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:43:12,894 - Source folder synchronized to replica folder.
+2023-09-24 16:43:38,554 - File removed: private\path\replica\created FILE.txt
+2023-09-24 16:43:38,558 - File removed: private\path\replica\file.txt
+2023-09-24 16:43:38,559 - File removed: private\path\replica\new modification.txt
+2023-09-24 16:43:38,559 - File removed: private\path\replica\new.txt
+2023-09-24 16:43:38,559 - File removed: private\path\replica\new\hello.txt
+2023-09-24 16:43:38,561 - File removed: private\path\replica\new\test2.txt
+2023-09-24 16:43:38,564 - File copied: private\path\source\created FILE.txt -> private\path\replica\.\created FILE.txt
+2023-09-24 16:43:38,567 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 16:43:38,570 - File copied: private\path\source\new modification.txt -> private\path\replica\.\new modification.txt
+2023-09-24 16:43:38,574 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 16:43:38,576 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 16:43:38,580 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 16:43:38,580 - Source folder synchronized to replica folder.
+2023-09-24 17:01:19,501 - File removed: private\path\replica\created FILE.txt
+2023-09-24 17:01:19,501 - File removed: private\path\replica\file.txt
+2023-09-24 17:01:19,503 - File removed: private\path\replica\new modification.txt
+2023-09-24 17:01:19,504 - File removed: private\path\replica\new.txt
+2023-09-24 17:01:19,505 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:01:19,506 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:01:19,508 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 17:01:19,514 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 17:01:19,520 - File copied: private\path\source\TEST copy.txt -> private\path\replica\.\TEST copy.txt
+2023-09-24 17:01:19,525 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:01:19,527 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:01:19,532 - Source folder synchronized to replica folder.
+2023-09-24 17:13:41,012 - File removed: private\path\replica\creation test.txt
+2023-09-24 17:13:41,016 - File removed: private\path\replica\file.txt
+2023-09-24 17:13:41,017 - File removed: private\path\replica\new.txt
+2023-09-24 17:13:41,018 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:13:41,019 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:13:41,021 - File copied: private\path\source\creation test.txt -> private\path\replica\.\creation test.txt
+2023-09-24 17:13:41,024 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 17:13:41,027 - File copied: private\path\source\NEW TEST.txt -> private\path\replica\.\NEW TEST.txt
+2023-09-24 17:13:41,029 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 17:13:41,034 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:13:41,034 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:13:41,039 - Source folder synchronized to replica folder.
+2023-09-24 17:15:56,062 - File removed: private\path\replica\creation test.txt
+2023-09-24 17:15:56,062 - File removed: private\path\replica\file.txt
+2023-09-24 17:15:56,065 - File removed: private\path\replica\NEW TEST.txt
+2023-09-24 17:15:56,065 - File removed: private\path\replica\new.txt
+2023-09-24 17:15:56,067 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:15:56,068 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:15:56,073 - File copied: private\path\source\big test.txt -> private\path\replica\.\big test.txt
+2023-09-24 17:15:56,075 - File copied: private\path\source\creation test.txt -> private\path\replica\.\creation test.txt
+2023-09-24 17:15:56,079 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 17:15:56,080 - File copied: private\path\source\NEW TEST.txt -> private\path\replica\.\NEW TEST.txt
+2023-09-24 17:15:56,085 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 17:15:56,091 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:15:56,093 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:15:56,094 - Source folder synchronized to replica folder.
+2023-09-24 17:25:07,089 - File removed: private\path\replica\big test.txt
+2023-09-24 17:25:07,091 - File removed: private\path\replica\creation test.txt
+2023-09-24 17:25:07,092 - File removed: private\path\replica\file.txt
+2023-09-24 17:25:07,093 - File removed: private\path\replica\NEW TEST.txt
+2023-09-24 17:25:07,094 - File removed: private\path\replica\new.txt
+2023-09-24 17:25:07,094 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:25:07,096 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:25:07,100 - File copied: private\path\source\1.txt -> private\path\replica\.\1.txt
+2023-09-24 17:25:07,103 - File copied: private\path\source\big test.txt -> private\path\replica\.\big test.txt
+2023-09-24 17:25:07,103 - File copied: private\path\source\creation test.txt -> private\path\replica\.\creation test.txt
+2023-09-24 17:25:07,109 - File copied: private\path\source\file.txt -> private\path\replica\.\file.txt
+2023-09-24 17:25:07,112 - File copied: private\path\source\NEW TEST.txt -> private\path\replica\.\NEW TEST.txt
+2023-09-24 17:25:07,114 - File copied: private\path\source\new.txt -> private\path\replica\.\new.txt
+2023-09-24 17:25:07,118 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:25:07,121 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:25:07,121 - Source folder synchronized to replica folder.
+2023-09-24 17:27:54,749 - File removed: private\path\replica\1.txt
+2023-09-24 17:27:54,750 - File removed: private\path\replica\big test.txt
+2023-09-24 17:27:54,751 - File removed: private\path\replica\creation test.txt
+2023-09-24 17:27:54,753 - File removed: private\path\replica\file.txt
+2023-09-24 17:27:54,754 - File removed: private\path\replica\NEW TEST.txt
+2023-09-24 17:27:54,757 - File removed: private\path\replica\new.txt
+2023-09-24 17:27:54,759 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:27:54,760 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:27:54,761 - Newly created file: private\path\replica\.\1.txt (Timestamp: Sun Sep 24 17:25:03 2023)
+2023-09-24 17:27:54,761 - Newly created file: private\path\replica\.\2.txt (Timestamp: Sun Sep 24 17:27:46 2023)
+2023-09-24 17:27:54,767 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:27:54,770 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:27:54,770 - Source folder synchronized to replica folder.
+2023-09-24 17:35:24,747 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:35:24,752 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:35:24,752 - Newly created file: private\path\replica\.\1.txt (Timestamp: Sun Sep 24 17:25:03 2023)
+2023-09-24 17:35:24,752 - Newly created file: private\path\replica\.\2.txt (Timestamp: Sun Sep 24 17:27:46 2023)
+2023-09-24 17:35:24,752 - Newly created file: private\path\replica\.\new test.txt (Timestamp: Sun Sep 24 17:35:18 2023)
+2023-09-24 17:35:24,757 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:35:24,759 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:35:24,759 - Source folder synchronized to replica folder.
+2023-09-24 17:39:27,604 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:39:27,612 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:39:27,613 - Newly created file: private\path\replica\.\1.txt (Timestamp: Sun Sep 24 17:25:03 2023)
+2023-09-24 17:39:27,613 - Newly created file: private\path\replica\.\2.txt (Timestamp: Sun Sep 24 17:27:46 2023)
+2023-09-24 17:39:27,613 - Newly created file: private\path\replica\.\file 3.txt (Timestamp: Sun Sep 24 17:39:19 2023)
+2023-09-24 17:39:27,617 - File copied: private\path\source\new test.txt -> private\path\replica\.\new test.txt
+2023-09-24 17:39:27,620 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:39:27,621 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:39:27,624 - Source folder synchronized to replica folder.
+2023-09-24 17:40:44,757 - File removed: private\path\replica\new test.txt
+2023-09-24 17:40:44,761 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:40:44,762 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:40:44,762 - Newly created file: private\path\replica\.\1.txt (Timestamp: Sun Sep 24 17:25:03 2023)
+2023-09-24 17:40:44,762 - Newly created file: private\path\replica\.\2.txt (Timestamp: Sun Sep 24 17:27:46 2023)
+2023-09-24 17:40:44,762 - Newly created file: private\path\replica\.\file 3.txt (Timestamp: Sun Sep 24 17:39:19 2023)
+2023-09-24 17:40:44,767 - File copied: private\path\source\new test.txt -> private\path\replica\.\new test.txt
+2023-09-24 17:40:44,771 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:40:44,774 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:40:44,774 - Source folder synchronized to replica folder.
+2023-09-24 17:41:19,332 - File removed: private\path\replica\new test.txt
+2023-09-24 17:41:19,336 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:41:19,337 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:41:19,338 - Newly created file: private\path\replica\.\1.txt (Timestamp: Sun Sep 24 17:25:03 2023)
+2023-09-24 17:41:19,338 - Newly created file: private\path\replica\.\2.txt (Timestamp: Sun Sep 24 17:27:46 2023)
+2023-09-24 17:41:19,338 - Newly created file: private\path\replica\.\file 3.txt (Timestamp: Sun Sep 24 17:39:19 2023)
+2023-09-24 17:41:19,339 - Source folder synchronized to replica folder.
+2023-09-24 17:49:55,447 - Source folder synchronized to replica folder.
+2023-09-24 17:55:10,787 - Source folder synchronized to replica folder.
+2023-09-24 17:56:02,034 - Newly created file: private\path\replica\.\BCYNJGCMB.txt (Timestamp: Sun Sep 24 17:55:05 2023)
+2023-09-24 17:56:02,037 - File copied: private\path\source\FILE TEST.txt -> private\path\replica\.\FILE TEST.txt
+2023-09-24 17:56:02,042 - File copied: private\path\source\new test.txt -> private\path\replica\.\new test.txt
+2023-09-24 17:56:02,046 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:56:02,051 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:56:02,051 - Source folder synchronized to replica folder.
+2023-09-24 17:56:26,539 - File removed: private\path\replica\FILE TEST.txt
+2023-09-24 17:56:26,548 - File removed: private\path\replica\new test.txt
+2023-09-24 17:56:26,550 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:56:26,551 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:56:26,552 - Newly created file: private\path\replica\.\BCYNJGCMB.txt (Timestamp: Sun Sep 24 17:55:05 2023)
+2023-09-24 17:56:26,559 - File copied: private\path\source\FILE TEST.txt -> private\path\replica\.\FILE TEST.txt
+2023-09-24 17:56:26,563 - File copied: private\path\source\new test.txt -> private\path\replica\.\new test.txt
+2023-09-24 17:56:26,568 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:56:26,568 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:56:26,568 - Source folder synchronized to replica folder.
+2023-09-24 17:56:57,939 - File removed: private\path\replica\FILE TEST.txt
+2023-09-24 17:56:57,941 - File removed: private\path\replica\new test.txt
+2023-09-24 17:56:57,942 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:56:57,943 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:56:57,943 - Newly created file: private\path\replica\.\BCYNJGCMB.txt (Timestamp: Sun Sep 24 17:55:05 2023)
+2023-09-24 17:56:57,945 - File copied: private\path\source\new test.txt -> private\path\replica\.\new test.txt
+2023-09-24 17:56:57,949 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:56:57,952 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:56:57,952 - Source folder synchronized to replica folder.
+2023-09-24 17:58:40,200 - File removed: private\path\replica\new test.txt
+2023-09-24 17:58:40,205 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:58:40,206 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:58:40,207 - Newly created file: private\path\replica\.\BCYNJGCMB.txt (Timestamp: Sun Sep 24 17:55:05 2023)
+2023-09-24 17:58:40,210 - File copied: private\path\source\new test.txt -> private\path\replica\.\new test.txt
+2023-09-24 17:58:40,214 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:58:40,215 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:58:40,218 - Source folder synchronized to replica folder.
+2023-09-24 17:59:09,921 - File removed: private\path\replica\new test.txt
+2023-09-24 17:59:09,923 - File removed: private\path\replica\new\hello.txt
+2023-09-24 17:59:09,924 - File removed: private\path\replica\new\test2.txt
+2023-09-24 17:59:09,926 - Newly created file: private\path\replica\.\BCYNJGCMB.txt (Timestamp: Sun Sep 24 17:55:05 2023)
+2023-09-24 17:59:09,932 - File copied: private\path\source\new test.txt -> private\path\replica\.\new test.txt
+2023-09-24 17:59:09,936 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 17:59:09,939 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 17:59:09,940 - Source folder synchronized to replica folder.
+2023-09-24 18:04:07,745 - File removed: private\path\replica\BCYNJGCMB.txt
+2023-09-24 18:04:07,753 - File removed: private\path\replica\new test.txt
+2023-09-24 18:04:07,756 - File removed: private\path\replica\new\hello.txt
+2023-09-24 18:04:07,758 - File removed: private\path\replica\new\test2.txt
+2023-09-24 18:04:07,764 - Newly created file: private\path\replica\.\BCYNJGCMB.txt (Timestamp: Sun Sep 24 17:55:05 2023)
+2023-09-24 18:04:07,769 - File copied: private\path\source\new test.txt -> private\path\replica\.\new test.txt
+2023-09-24 18:04:07,774 - Newly created file: private\path\replica\.\newnewnewnew.txt (Timestamp: Sun Sep 24 18:04:00 2023)
+2023-09-24 18:04:07,781 - File copied: private\path\source\new\hello.txt -> private\path\replica\new\hello.txt
+2023-09-24 18:04:07,787 - File copied: private\path\source\new\test2.txt -> private\path\replica\new\test2.txt
+2023-09-24 18:04:07,788 - Source folder synchronized to replica folder.
+
